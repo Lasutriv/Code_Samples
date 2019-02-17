@@ -1,0 +1,7 @@
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
+Linear Regression:
+    y = B0 + B1 * x
+
+    We will predict y given the input x and the goal of the linear regression learning algorithm is to find the values
+    for the coefficients B0 and B1.
